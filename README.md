@@ -1,4 +1,3 @@
-### Hi there 👋
 ![](https://github-readme-stats.vercel.app/api?username=starsholic&show_icons=true&count_private=true&theme=synthwave)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=starsholic&theme=synthwave&hide=javascript,html,css)
 <!--
