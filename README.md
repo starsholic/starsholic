@@ -1,6 +1,6 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=RainbowRui&show_icons=true&count_private=true&theme=synthwave)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RainbowRui&theme=synthwave&hide=javascript,html,css)
+![](https://github-readme-stats.vercel.app/api?username=starsholic&show_icons=true&count_private=true&theme=synthwave)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=starsholic&theme=synthwave&hide=javascript,html,css)
 <!--
 **starsholic/starsholic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
